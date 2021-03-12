@@ -1,0 +1,11 @@
+{
+  "name": "end-term",
+  "version": "1.0.0",
+  "description": "That's my first implementation",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  }, 
+  "author": "Baizakova Aruzhan",
+  "license": "ISC"
+}
